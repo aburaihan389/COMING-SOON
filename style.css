@@ -1,0 +1,52 @@
+body{
+    background-image: url(Screenshot_3.png);
+    background-repeat: no repeat;
+    background-size: cover;
+    color:whitesmoke;
+    height: 75vh;
+    background-position: center;
+    size: 100%;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.go{
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 20px;
+    
+}
+.middle{
+     
+    text-align: center;
+    margin-top: 175px;
+    margin-left: 10px;
+    
+}
+h1{
+    font-size: 67px;
+    font-weight: 700;
+    color:rgb(167, 122, 40);
+    font-family:  "Raleway", sans-serif;
+
+
+}
+
+hr{
+    width: 220px;
+    opacity: 0.5;
+    
+}
+p{
+    font-size: 21px;
+    font: bold;
+}
+a{
+    color: rgb(230, 139, 139);
+}
+
+.bottom{
+    margin-top: 165px;
+    font-size: 18px;
+    padding: 5px 10px;
+
+}
